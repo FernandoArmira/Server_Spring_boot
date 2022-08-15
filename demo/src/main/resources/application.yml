@@ -1,0 +1,6 @@
+app:
+  datasource:
+    jdbc-url: jdbc:mysql://localhost:3306/person
+    username: root
+    password: halo2195
+    #pool-size: 30
